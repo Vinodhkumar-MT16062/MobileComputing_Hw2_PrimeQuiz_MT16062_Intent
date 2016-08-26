@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PrimeChallenge</string>
+    <string name="trueString">True</string>
+    <string name="falseString">False</string>
+    <string name="statementText"> is a prime number!</string>
+    <string name="next">Next</string>
+    <string name="hintText">A prime number (or a prime) is a natural number greater than 1 that has no positive divisors other than 1 and itself.
+    Therefore check if the number is divided by any number from 2 to square root of itself.</string>
+    <string name="prime"> is a prime number. </string>
+    <string name="notPrime"> is not a prime number. </string>
+    <string name="hint">Hint</string>
+    <string name="answer">Answer</string>
+</resources>
